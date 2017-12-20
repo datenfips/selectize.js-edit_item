@@ -22,6 +22,8 @@ grunt --plugins=* OR grunt --plugins=edit_item
 This plugin adds "Edit [Option]" to the selectize.js dropdown
 * Keeps the items id/value and passign it to a 'option_edit' callback for event handling
 
+Please keep in mind, this code is only made to satisfy my needs, feel free to alter or contribute.
+
 ## Contributing
 
 If you'd like to contribute, please fork the repository and use a feature
